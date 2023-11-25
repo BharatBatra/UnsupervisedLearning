@@ -1,0 +1,2 @@
+A pipeline defines a chain of transformations that is applied to data set sequentailly where the last step in the model is machine learning model
+ (classification or regression)
